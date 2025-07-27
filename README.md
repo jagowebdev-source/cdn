@@ -1,2 +1,1 @@
-# cdn
-CDN untuk aplikasi Jagowebdev.com
+<a href="https://jagowebdev.com">https://jagowebdev.com</a>
